@@ -1,2 +1,8 @@
-# rust_programming_book
-Sample code from "the book"
+# Rust Learning
+
+Sample code from ["the book"][rust_book].
+
+
+[rust_book]: https://doc.rust-lang.org/book/
+
+
